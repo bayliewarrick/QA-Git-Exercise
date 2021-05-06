@@ -13,3 +13,9 @@ you must have a feature-"somefeaturedetail" branch with 1 commit
     - Make changes to the [file] in both feature branches; ensuring both files are different.
     - Commit both changes to both feature-branches
     - Attempt to merge both these feature branches into dev with both changes
+# GIT Remote vs Local TASK
+    - upload a file to your dev branch on github
+    - create a change on your local git repo
+    - add and commit this change
+    - attempt to push to your `origin dev`
+    - hint: try using git pull to bring in remote changes into your local repo.
