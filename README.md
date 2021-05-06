@@ -5,3 +5,10 @@ Create a feature-branch model that follows these requirements:
 you must have a main branch with 1 commit
 you must have a dev branch with 1 commit
 you must have a feature-"somefeaturedetail" branch with 1 commit
+
+# GIT Remote vs Local TASK
+    - upload a file to your dev branch on github
+    - create a change on your local git repo
+    - add and commit this change
+    - attempt to push to your `origin dev`
+    - hint: try using git pull to bring in remote changes into your local repo.
