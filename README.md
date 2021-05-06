@@ -20,5 +20,9 @@ you must have a feature-"somefeaturedetail" branch with 1 commit
     - attempt to push to your `origin dev`
     - hint: try using git pull to bring in remote changes into your local repo.
 
+<<<<<<< HEAD
 
 Making a change here as well!
+=======
+Making a change here
+>>>>>>> 4808c733b36476b6dd91f5bee7406aac32e9875c
